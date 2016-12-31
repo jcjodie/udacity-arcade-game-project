@@ -2,6 +2,8 @@
 Provided with visual assets and a game loop engine; using these tools, added a number of entities to the game including the player characters and enemies to recreate the classic arcade game Frogger.
 
 #Running the Game
+https://jcjodie.github.io/udacity-arcade-game-project/
+or
 -Download the Arcade Game files.
 -Open the index.html file in your browser.
 
